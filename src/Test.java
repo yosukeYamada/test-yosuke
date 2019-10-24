@@ -1,6 +1,6 @@
 
 public class Test {
-	private String test;
+	private String test = "100“_–ž“_";
 	private int score;
 
 }
